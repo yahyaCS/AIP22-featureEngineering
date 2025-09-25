@@ -9,7 +9,7 @@ import os
 
 st.set_page_config(page_title="Churn Predictor", layout="centered")
 
-st.title("Churn Predictor — demo")
+st.title("Churn Predictor")
 st.write("Fill the customer fields below and click Predict. The app uses your saved preprocessor and local XGBoost model.")
 
 # --- Load artifacts (preprocessor, raw column order, model) ---
