@@ -55,6 +55,8 @@ The pipeline includes:
 
     ![alt text](graphs/totalCharges.png)
 
+    ![alt text](<graphs/corelation matrix.png>)
+
 ### 2. Feature engineering & preprocessing
 
 - Grouped columns and applied transformations:
